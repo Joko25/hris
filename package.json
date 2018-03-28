@@ -1,0 +1,25 @@
+{
+  "name": "hris",
+  "version": "1.0.0",
+  "description": "human resource information system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joko25/hris.git"
+  },
+  "keywords": [
+    "human",
+    "resource",
+    "information",
+    "system"
+  ],
+  "author": "ngongop dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joko25/hris/issues"
+  },
+  "homepage": "https://github.com/Joko25/hris#readme"
+}
