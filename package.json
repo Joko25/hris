@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/Joko25/hris/issues"
   },
-  "homepage": "https://github.com/Joko25/hris#readme"
+  "homepage": "https://github.com/Joko25/hris#readme",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "bootstrap": "^4.0.0"
+  }
 }
